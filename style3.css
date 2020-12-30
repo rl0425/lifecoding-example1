@@ -1,0 +1,30 @@
+.container{
+    background: beige;
+    height:100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:nowrap;
+}
+
+.item{
+    width:40px;
+    height:40px;
+}
+.item1{
+    background: pink;
+}
+.item2{
+    background: red;
+}
+.item3{
+    background: blue;
+}
+.item4{
+    background: green;
+}
+.item5{
+    background: rebeccapurple;
+}
+.item6{
+    background: aqua;
+}
